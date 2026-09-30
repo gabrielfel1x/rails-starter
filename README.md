@@ -1,4 +1,4 @@
-# rails-todo
+# rails-starter
 
 Ruby on Rails 8 starter with Docker and Kamal deploy config.
 
